@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latte - Digital Espresso</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Digital Espresso Logo" class="logo">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="branches.html">Branches</a>
+      <a href="aboutus.html">About</a>
+    </nav>
+  </header>
+  <main>
+    <h1>Latte</h1>
+    <img src="latte.jpg" alt="Latte" width="300">
+    <p>A creamy, smooth coffee made with a shot of espresso and steamed milk, topped with a small layer of milk foam. Our Latte is crafted with the finest Arabica beans and perfectly frothed milk, offering a delightful balance of rich coffee flavor and velvety texture.</p>
+    <a href="products.html">Back to Products</a>
+  </main>
+  <footer>
+    <p>&copy; 2023 Digital Espresso. All rights reserved.</p>
+  </footer>
+</body>
+</html>
